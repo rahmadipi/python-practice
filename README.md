@@ -4,8 +4,8 @@ This repository contains basic syntax using python language.<br/>The code writte
 
 ## Requirements:
 
-- python version 3.9.7
 - Anaconda navigator 2.1.1
+- python version 3.9.7 (already included from Anaconda installation)
 
 
 ## Python basic syntax including:
