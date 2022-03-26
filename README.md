@@ -1,5 +1,5 @@
 # python-practice
-This repository contains basic syntax using python language. \The code written in notebook document used by Jupyter Notebook format (.ipynb).
+This repository contains basic syntax using python language.<br/>The code written in notebook document used by Jupyter Notebook format (.ipynb).
  \
 Requirements:
 - python version 3.9.7 
