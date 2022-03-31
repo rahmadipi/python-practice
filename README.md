@@ -1,13 +1,13 @@
 # python-practice
 
-This repository contains basic syntax using python language.<br/>The code written in notebook document used by Jupyter Notebook format (.ipynb).
+This repository contains basic syntax using python language purposely made for my personal practice.<br/>The code written in notebook document used by Jupyter Notebook format (.ipynb).
 
-Requirements:
+## Requirements:
 
-- python version 3.9.7
 - Anaconda navigator 2.1.1
+- python version 3.9.7 ( _already included from Anaconda installation_ )
 
-Python basic syntax including:
+## Python basic syntax including:
 
 1. Print manipulation
 2. Literals: integer, float, boolean, string
