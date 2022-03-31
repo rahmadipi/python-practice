@@ -7,7 +7,6 @@ Requirements:
 - python version 3.9.7
 - Anaconda navigator 2.1.1
 
-
 Python basic syntax including:
 
 1. Print manipulation
@@ -15,3 +14,4 @@ Python basic syntax including:
 3. Arithmetic
 4. Input
 5. Comparison
+6. Conditional instruction
