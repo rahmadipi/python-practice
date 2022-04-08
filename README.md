@@ -15,3 +15,4 @@ This repository contains basic syntax using python language purposely made for m
 4. Input
 5. Comparison
 6. Conditional instruction
+7. Loops
