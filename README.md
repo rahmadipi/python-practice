@@ -16,3 +16,7 @@ This repository contains basic syntax using python language purposely made for m
 5. Comparison
 6. Conditional instruction
 7. Loops
+8. Logical operators
+9. Lists
+10. Sorting
+
