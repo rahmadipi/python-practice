@@ -19,4 +19,7 @@ This repository contains basic syntax using python language purposely made for m
 8. Logical operators
 9. Lists
 10. Sorting
-
+11. Function
+12. Tuple
+13. Dictionary
+14. Exceptions
