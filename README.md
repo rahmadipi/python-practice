@@ -1,6 +1,6 @@
 # python-practice
 
-This repository contains basic syntax using python language purposely made for my personal practice.<br/>The code written in notebook document used by Jupyter Notebook format (.ipynb).
+This repository contains basic syntax using python language purposely made for my personal practice.<br/>The code written in notebook document with Jupyter Notebook format (.ipynb).
 
 ## Requirements:
 
